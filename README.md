@@ -10,4 +10,4 @@ For reading the material, please go to "DOCUMENT.MD"
 **NOTE**: Depends on extension in Visual Studio Code, the structure of this "DOCUMENT.MD" will be damaged, so my best recomend is go straight to "MARKDOWN PREVIEW ENHANCE" extension.
 
 ## Note: I DO NOT OWN THE COPYRIGHT NOR HAVE THE PERMISSION of UDACITY to publish this material. 
-Any questions about copyright issues, please contact by email: chuquangnguyenhoang@gmail.com
+Any questions about the copyright issues, please contact by email: chuquangnguyenhoang@gmail.com
