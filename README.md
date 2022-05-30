@@ -14,7 +14,7 @@ This course contains 4 main parts and each part was separated into small lessons
 
 I HOPE YOU WILL ENJOY WHAT I'M DOING. <peace out>
 ## Note:
-1. The best way is **get the course** at any cost, it will bring you the best experience ( + **YOUR OWN CERTIFICATION** by Udacity), but if you don't have time, please feel free to use mine as a reference.
+1. The best way is **getting the course** at any cost, it will bring you the best experience ( + **YOUR OWN CERTIFICATION** by Udacity), but if you don't have time, please feel free to use mine as a reference.
 2. As I said above, this material is all about what I've learned and what I thought it was (personally) important to write it down, so basically, there might be missing some information that was mentioned in the main Udacity's Data Engineering Course.<br>
 2. Everybody is always welcome to make this material better for the public community. For any comments, please reach me by email you will find below.<br>
 3. I DO NOT OWN THE COPYRIGHT NOR HAVE THE PERMISSION of UDACITY to publish this material. <br>
