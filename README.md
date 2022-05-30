@@ -7,7 +7,7 @@ This course contains 4 main parts and each part was separated into small lessons
   - Intermediate Python Skills
   - Intermediate SQL skills (but if you don't, don't worry, we will learn everything from scratch)
 ## Main Part:
-- For reading the material, please go to "DOCUMENT.MD" <br>
+- For reading the material, please go to "Document.MD" <br>
 (This material was written in MARKDOWN style, it's supported reading by GITHUB, but if you want to download it, make sure you have support applications or plugin that can read the ".md" file)
 - Best recommend application is "VISUAL STUDIO CODE" with an extension called "MARKDOWN PREVIEW ENHANCE" by Yiyi Wang (because I am writing by this extension :D )<br><br>
 **NOTE**: Depending on what extension you use in Visual Studio Code, this "DOCUMENT.MD" structure will be different or damaged, so my best recommendation is to go straight to the "MARKDOWN PREVIEW ENHANCE" extension.
